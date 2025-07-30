@@ -1,1 +1,1 @@
-# shuva-s-fitness-website
+A responsive and modern fitness website built using HTML, CSS, and JavaScript. This project showcases a complete front-end design for a fitness and wellness brand, including home page, services, workout plans, trainers, contact form, and more. The website is designed to inspire and engage users to start or continue their fitness journey.
